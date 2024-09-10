@@ -1,0 +1,222 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "NaCl", "O2"],
+        "answer": "H2O"
+    },
+    {
+        "question": "Which language is primarily spoken in Brazil?",
+        "options": ["Spanish", "Portuguese", "French", "English"],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Who is the author of the Harry Potter series?",
+        "options": ["J.K. Rowling", "J.R.R. Tolkien", "George R.R. Martin", "C.S. Lewis"],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "answer": "2"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "Vietnam"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Silver"],
+        "answer": "Diamond"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": ["0°C", "50°C", "100°C", "200°C"],
+        "answer": "100°C"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": ["Marie Curie", "Alexander Fleming", "Isaac Newton", "Albert Einstein"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+    },
+    {
+        "question": "Which planet is known as the Earth's twin?",
+        "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8"
+    },
+    {
+        "question": "Who was the first man to walk on the moon?",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": ["Milan", "Venice", "Rome", "Florence"],
+        "answer": "Rome"
+    },
+    {
+        "question": "What currency is used in Japan?",
+        "options": ["Yuan", "Won", "Yen", "Dollar"],
+        "answer": "Yen"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "Which is the smallest planet in our solar system?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the primary ingredient in traditional Japanese sake?",
+        "options": ["Wheat", "Rice", "Barley", "Corn"],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which country is the largest by area?",
+        "options": ["Canada", "United States", "Russia", "China"],
+        "answer": "Russia"
+    },
+    {
+        "question": "What is the main language spoken in Argentina?",
+        "options": ["Spanish", "Portuguese", "English", "French"],
+        "answer": "Spanish"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["John Adams", "Thomas Jefferson", "George Washington", "Abraham Lincoln"],
+        "answer": "George Washington"
+    },
+    {
+        "question": "Which organ is responsible for pumping blood throughout the body?",
+        "options": ["Lungs", "Brain", "Heart", "Liver"],
+        "answer": "Heart"
+    },
+    {
+        "question": "Which is the smallest continent by land area?",
+        "options": ["Europe", "Antarctica", "Australia", "South America"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Onion", "Pepper"],
+        "answer": "Avocado"
+    },
+    {
+        "question": "Which is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": ["Femur", "Tibia", "Humerus", "Fibula"],
+        "answer": "Femur"
+    },
+    {
+        "question": "Who is known as the 'Father of Computers'?",
+        "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": ["Gobi", "Sahara", "Arctic", "Antarctica"],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which organ is responsible for filtering blood?",
+        "options": ["Liver", "Kidney", "Heart", "Lung"],
+        "answer": "Kidney"
+    },
+    {
+        "question": "What is the largest land animal?",
+        "options": ["Elephant", "Hippopotamus", "Rhinoceros", "Giraffe"],
+        "answer": "Elephant"
+    },
+    {
+        "question": "What is the primary component of the sun?",
+        "options": ["Oxygen", "Carbon", "Helium", "Hydrogen"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which ocean is the smallest by area?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Southern Ocean"],
+        "answer": "Arctic Ocean"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Niels Bohr"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": ["Munich", "Frankfurt", "Berlin", "Hamburg"],
+        "answer": "Berlin"
+    },
+    {
+        "question": "What is the hardest rock?",
+        "options": ["Granite", "Marble", "Diamond", "Quartz"],
+        "answer": "Diamond"
+    }
+]

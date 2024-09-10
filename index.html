@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz-App</title>
+    
+    <link rel="stylesheet" href="./style.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+</head>
+<body>
+     <div class="txt" >Current Score of ... : </div><div class="result" id="result" class="score">0</div>
+    <div class="quiz-container">
+        <div class="question">
+            
+        </div>
+        <ul class="options">
+            <li><input class="answer" type="radio" name="answer" id="a" value=""><label for="a"></label></li>
+    <li><input class="answer" type="radio" name="answer" id="b" value=""><label for="b"> </label></li>
+    <li><input class="answer" type="radio" name="answer" id="c" value=""> <label for="c"></label></li>
+    <li><input class="answer" type="radio" name="answer" id="d" value=""> <label for="d"></label></li>
+        </ul>
+        <button class="submit-btn" onclick="start()">Submit</button>
+        <button onclick="start()" class="qs">Start Quiz</button>
+        <button onclick="reset()" class="qs">Reset</button>
+        
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
